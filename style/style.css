@@ -1,0 +1,49 @@
+header > div > img{
+    width: 100px;
+    display: block;
+    padding-bottom: 15px;
+}
+
+
+a{
+    padding-right: 20px;
+}
+
+main{
+    padding-top: 30px;
+}
+
+fieldset{
+    border-style: none;
+}
+
+table{
+    border: 2px solid lightseagreen;
+    margin: 0;
+    padding: 0;
+}
+
+tr{
+    margin: 0;
+    padding: 0;
+}
+
+td{
+    border: 2px solid lightseagreen;
+    padding:5px 5px;
+}
+
+.empty_box{
+    border: 2px solid lightseagreen;
+    width: 40px;
+    height: 40px;
+    
+}
+
+.botton{
+    box-shadow: 5px 5px lightseagreen;
+    border: 3px solid lightseagreen;
+    width: 130px;
+    height: 30px;
+    font-size: 15px;
+}
